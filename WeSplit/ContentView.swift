@@ -70,13 +70,6 @@ struct ContentView: View {
             }
             .navigationTitle("WeSplit")
             .toolbar {
-               /* ToolbarItem(placement: .principal) { // Places it in the center
-                    Image("WeSplitLogo") // Make sure the image name matches your asset
-                        .resizable()
-                        .scaledToFit()
-                        .frame(height: 40) // Adjust size as needed
-                } */
-                
                 ToolbarItemGroup(placement: .keyboard) {
                     Spacer()
                     
