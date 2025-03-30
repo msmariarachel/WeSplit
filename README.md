@@ -52,14 +52,11 @@ View the calculated total amount with the tip and each person's contribution.
 
 ## Screenshots
 
-![Main Screen](Assets/WeSplitScreenshot1.png)
-*Main screen where users enter bill details.*
-
-![Number of People Selection](Assets/WeSplitScreenshot2.png)
-*Number of people selection interface.*
-
-![Final Calculation](Assets/WeSplitScreenshot3.png)
-*Total amount and each person's share displayed.*
+<p align="center">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot1.PNG" width="30%" alt="Main Screen">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot2.PNG" width="30%" alt="Number of People Selection">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot3.PNG" width="30%" alt="Final Calculation">
+</p>
 
 ## Future Improvements
 
