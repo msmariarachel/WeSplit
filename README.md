@@ -4,6 +4,14 @@
 
 WeSplit is a simple iOS application built with SwiftUI that helps users split bills among a group of people. It calculates each person's contribution, including an adjustable tip percentage.
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot1.PNG" width="30%" alt="Main Screen">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot2.PNG" width="30%" alt="Number of People Selection">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot3.PNG" width="30%" alt="Final Calculation">
+</p>
+
 ## Features
 
 Input total check amount
@@ -47,14 +55,6 @@ Select the number of people splitting the bill.
 Choose the tip percentage.
 
 View the calculated total amount with the tip and each person's contribution.
-
-## Screenshots
-
-<p align="center">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot1.PNG" width="30%" alt="Main Screen">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot2.PNG" width="30%" alt="Number of People Selection">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot3.PNG" width="30%" alt="Final Calculation">
-</p>
 
 ## Future Improvements
 
