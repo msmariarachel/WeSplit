@@ -4,8 +4,6 @@
 
 WeSplit is a simple iOS application built with SwiftUI that helps users split bills among a group of people. It calculates each person's contribution, including an adjustable tip percentage.
 
-This is my first project with an iOS development bootcamp.
-
 ## Features
 
 Input total check amount
@@ -68,4 +66,4 @@ Enhance UI with additional styling
 
 Maria Rachel
 
-Created on March 20, 2025
+Created on March 20, 2025 as a project for 100 Days of SwiftUI by Hacking With Swift.
