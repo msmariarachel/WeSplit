@@ -7,9 +7,11 @@ WeSplit is a simple iOS application built with SwiftUI that helps users split bi
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot1.PNG" width="30%" alt="Main Screen">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot2.PNG" width="30%" alt="Number of People Selection">
-  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot3.PNG" width="30%" alt="Final Calculation">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot1.PNG" width="45%" alt="Main Screen">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot2.PNG" width="45%" alt="Number of People Selection">
+  
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitScreenshot3.PNG" width="45%" alt="Final Calculation">
+  <img src="https://github.com/msmariarachel/WeSplit/blob/main/Assets/WeSplitDemo.gif" width="45%" alt="Demo">
 </p>
 
 ## Features
