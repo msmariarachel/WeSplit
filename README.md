@@ -67,4 +67,5 @@ Enhance UI with additional styling
 ## Author
 
 Maria Rachel
+
 Created on March 20, 2025
